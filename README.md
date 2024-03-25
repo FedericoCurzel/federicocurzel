@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, welcome to my page 👋🎶
+### I am currently engaged in studying the activity of single 🧠 or dual brains 🧠🧠 using functional Near-Infrared Spectroscopy (fNIRS) while subjects listen to pleasant music stimuli.
 
 <!--
 **FedericoCurzel/federicocurzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
